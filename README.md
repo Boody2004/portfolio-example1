@@ -1,5 +1,5 @@
-# Portfolio Example1 BE
-## go to website [Portfolio Example1 BE]( https://poerfolio-example1.herokuapp.com/)
+# Portfolio Example1
+## go to website [Portfolio Example1]( https://poerfolio-example1.herokuapp.com/)
 <b>coded by [Boody-BE](https://github.com/Boody2004/week-days)</b>
 
 **HAVE FUN 👌**
